@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>if you opened this you are special to me</h1>
+    return <h1>Se você abriu isso, você é especial para mim 😁😛</h1>
 
 }
 
